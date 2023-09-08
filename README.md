@@ -1,4 +1,4 @@
-- # Olá,
+- # Olá, pessoal! 
 - Meu nome é **Francisco Jozenir Gomes de Lima**, sou Tecnólogo em Redes de Computadores pelo Centro Universitário Estácio do Ceará e em Análise e Desenvolvimento de Sistemas pela UNOPAR.
 - Atualmente sou aluno da [Cubos Academy](https://cubos.academy), onde realizo curso de **Desenvolvedor de Software - com Foco em Back-End - Java Script**.
 - 👀 Estou interessado em aprender linguagens de programação, fazer novas amizades e trocar informações sobre o assunto, desejo melhorar meus conhecimentos e habilidades na área. 
